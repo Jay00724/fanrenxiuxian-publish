@@ -1,8 +1,8 @@
 {
     "versionCode": 3,
     "versionName": "0.1.2",
-    "checkUrl": "https://jay00101.gitee.io/fanrenxiuxianyouxikaifa/version.json",
-    "updateUrl": "https://jay00101.gitee.io/fanrenxiuxianyouxikaifa/apk/FanRen_XiuXian_v0.1.2.apk",
+    "checkUrl": "https://jay00724.github.io/fanrenxiuxian-publish/version.json",
+    "updateUrl": "https://jay00724.github.io/fanrenxiuxian-publish/apk/FanRen_XiuXian_v0.1.2.apk",
     "forceUpdate": true,
     "fileSize": 11160074,
     "updateDescription": "V0.1.2 凡人时期版本\n\n- 新增版本检测与强制更新功能\n- 新增引导事件链（初醒→第一份工作→第一次模拟→第一个目标）\n- 新增Web Audio音效系统（UI/效果/环境三类音效）\n- 设置界面新增三个音效开关\n- 优化事件引擎多条件判定\n- 修复已知问题，提升稳定性"
